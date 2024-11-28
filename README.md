@@ -2,7 +2,7 @@ This project is a Python-based Real-Time Face Recognition System designed to enh
 
 The core functionality of the system includes user registration, real-time facial recognition, and secure data storage. Users can register their information, including name and optional details, along with their facial encoding captured through a live camera feed or an uploaded image. The system stores this data securely in a SQLite database for easy management and retrieval. The recognition feature utilizes a camera feed to identify users in real time, leveraging efficient algorithms to ensure high accuracy even in dynamic environments.
 
-Key Features
+Key Features:
 
 *User Registration: Enables users to register via live camera capture or uploaded images, storing their face encodings and details securely in a database.
 
@@ -14,12 +14,12 @@ Key Features
 
 *User-Friendly GUI: A well-designed PyQt5-based interface ensures seamless navigation and intuitive use.
 
-Future Enhancements
+Future Enhancements:
 
 The system has the potential to evolve into a full-fledged Attendance Application tailored for environments requiring detailed monitoring and tracking of individuals' presence. Planned features include integrating WiFi-based IP tracking to verify whether a person remains within the designated area. By periodically checking the user’s presence based on facial recognition and IP tracking, the application will offer enhanced functionality for monitoring attendance during specified work or study hours.
 
 This future functionality will enable organizations to automate attendance processes, track absences or prolonged stays, and generate detailed reports. The combination of real-time face recognition and network-based tracking will significantly improve efficiency and accuracy compared to traditional methods.
 
-Conclusion
+Conclusion:
 
 This Real-Time Face Recognition Attendance System demonstrates expertise in Python programming, computer vision, and database management. It serves as a robust and extensible platform for identification and monitoring applications. The planned enhancements, such as IP-based tracking, position this project as a cutting-edge solution for future attendance and presence verification systems.
