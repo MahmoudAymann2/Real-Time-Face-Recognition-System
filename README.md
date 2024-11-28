@@ -4,15 +4,15 @@ The core functionality of the system includes user registration, real-time facia
 
 Key Features
 
-User Registration: Enables users to register via live camera capture or uploaded images, storing their face encodings and details securely in a database.
+*User Registration: Enables users to register via live camera capture or uploaded images, storing their face encodings and details securely in a database.
 
-Real-Time Recognition: Identifies registered users from a live camera feed, displaying their names and providing visual feedback.
+*Real-Time Recognition: Identifies registered users from a live camera feed, displaying their names and providing visual feedback.
 
-Data Management: Allows administrators to add, update, or delete user information, ensuring flexibility and control over the system.
+*Data Management: Allows administrators to add, update, or delete user information, ensuring flexibility and control over the system.
 
-Efficient Algorithms: Utilizes advanced face detection and matching algorithms for fast and reliable performance.
+*Efficient Algorithms: Utilizes advanced face detection and matching algorithms for fast and reliable performance.
 
-User-Friendly GUI: A well-designed PyQt5-based interface ensures seamless navigation and intuitive use.
+*User-Friendly GUI: A well-designed PyQt5-based interface ensures seamless navigation and intuitive use.
 
 Future Enhancements
 
